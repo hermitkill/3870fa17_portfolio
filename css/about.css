@@ -2,6 +2,7 @@
 .four-up-feature {
   margin-top: 3rem;
   text-align: center;
+  align-content: center;
 
   .four-up-feature-header {
     margin-bottom: 3rem;

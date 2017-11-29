@@ -279,10 +279,16 @@ li {
 /*End of Shopping Page*/
 
 /*Product Start*/
+.four-up-feature-about {
+  margin-top: 2rem;
+  text-align: center;
+  margin-left: 5rem;
+  margin-right: 5rem;
+}
 .four-up-feature {
   margin-top: 2rem;
   text-align: center;
-  margin-left: 6rem;
+  margin-left: 13rem;
 }
 
 .four-up-feature .four-up-feature-header {
